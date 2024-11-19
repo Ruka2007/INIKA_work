@@ -4,12 +4,22 @@ author: "Ruka"
 date: "2024-11-18"
 output:
   html_document: default
+---
 
 # course part 1 - Laboratory
 - we selected 20 isolates
 - 6 isolates are ***Klebsiella spp.*** isolates
 - 6 isolates are *Escherichia coli* isolates
 - 8 isolates are *Salmonella spp.* isolates
+
+## Istallation of packages
+
+```{r}
+```
+
+```{r}
+install.packages("here")
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
