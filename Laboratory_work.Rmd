@@ -1,0 +1,47 @@
+---
+title: "Laboratory work"
+author: "Ruka"
+date: "2024-11-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# course part 1 - Laboratory
+
+we selected 20 isolates
+- 6 isolates are ***Klebsiella spp.*** isolates
+- 6 isolates are *Escherichia coli* isolates
+- 8 isolates are *Salmonella spp.* isolates
+
+## Results of isolates speies determination / identification ?
+
+<!--
+![integrate pdf] (file/2024-11-20 - CVL_INIKA3-1 - Isolate Report.pdf)
+-->
+
+<!-- I have made a link to a file -->
+[link pdf](files/2024-11-20 - CVL_INIKA3-1 - Isolate Report.pdf)
+
+
+-Some isolates could not be identified
+-the reason would be 
+    No colony
+    More than one specie
+
+# course part 2 - Laboratory
+
+Picture of results
+
+Nine isolates were confirmed as *E.coli and *S.enterica
+Preparing for DNA extraction on Thursday,who are responsible for which strain
+A2 Emmanuel
+A4 Maulid
+B3 Anna
+C1 Emmanuel
+C2 Camilla
+C4 Maulid
+D1 Camilla
+D2 Camilla
+D4 Anna
